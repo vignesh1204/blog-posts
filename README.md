@@ -7,6 +7,12 @@ Create comments on posts and display all comments.
 
 ### Run
 
-cd into client directory and do
+cd into posts directory and  ```npm start``` to start posts service
 
-```npm start```
+cd into comments directory and  ```npm start``` to start comments service
+
+Then cd into client directory and do
+
+```npm start``` 
+
+to run app
